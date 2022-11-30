@@ -1,0 +1,3 @@
+Example text with cat.
+Example without.
+Second example with cat.
